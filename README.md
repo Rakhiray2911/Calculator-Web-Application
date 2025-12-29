@@ -1,1 +1,2 @@
 # Calculator-Web-Application
+Developed a responsive calculator web application using HTML and CSS, focusing on clean UI design and user-friendly layout. Structured the application with semantic HTML and implemented CSS for styling, alignment, and responsiveness across different screen sizes. Emphasized usability through a clear button layout, consistent visual hierarchy, and intuitive design principles. This project strengthened front-end fundamentals, layout structuring, and CSS styling skills.
